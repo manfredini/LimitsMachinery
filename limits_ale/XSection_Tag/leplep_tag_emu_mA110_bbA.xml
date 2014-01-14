@@ -1,0 +1,96 @@
+<!DOCTYPE Channel  SYSTEM 'HistFactorySchema.dtd'>
+<Channel Name="leplep_tag_emu" InputFile="./data/leplep_tag_emu.root" >
+ 
+  <Data HistoName="ATLAS_data_LL" HistoPath="" />
+  <StatErrorConfig RelErrorThreshold="0.05" ConstraintType="Poisson" />
+<!-- background list -->
+
+<Sample Name="ATLAS_Bkg_LL_Ztautau"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Bkg_LL_Ztautau">
+  <StatError Activate="True" />
+   <OverallSys Name="alpha_MU_ID" High="1.0027" Low="0.9973" />
+   <OverallSys Name="alpha_TRIG_SINGLE" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_TRIG_DILEP" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_BTAG_B" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_BTAG_L" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_Z" High="1.05" Low="0.95" />
+   <OverallSys Name="alpha_XS_W" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_ttbar" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_Diboson" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_SinTop" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_LUMI" High="1.028" Low="0.9728" />
+   <OverallSys Name="alpha_JES_BASE" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_EL_ID" High="1.0261" Low="0.9739" />
+   <OverallSys Name="alpha_EL_E" High="1.0077" Low="0.9919" />
+   <OverallSys Name="alpha_MU_E" High="1.0017" Low="0.9985" />
+   <OverallSys Name="alpha_MET" High="1.0012" Low="0.9983" />
+   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
+</Sample>
+<Sample Name="ATLAS_Bkg_LL_Other"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Bkg_LL_Other">
+  <StatError Activate="True" />
+   <OverallSys Name="alpha_MU_ID" High="1.0028" Low="0.9972" />
+   <OverallSys Name="alpha_TRIG_SINGLE" High="1.0034" Low="0.9878" />
+   <OverallSys Name="alpha_TRIG_DILEP" High="1.0144" Low="1.0015" />
+   <OverallSys Name="alpha_BTAG_B" High="1.0103" Low="0.9163" />
+   <OverallSys Name="alpha_BTAG_L" High="1.0337" Low="0.9633" />
+   <OverallSys Name="alpha_XS_Z" High="1.0021" Low="0.9979" />
+   <OverallSys Name="alpha_XS_W" High="1.0055" Low="0.9945" />
+   <OverallSys Name="alpha_XS_ttbar" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_Diboson" High="1.007" Low="0.993" />
+   <OverallSys Name="alpha_XS_SinTop" High="1.0565" Low="0.9435" />
+   <OverallSys Name="alpha_LUMI" High="1.028" Low="0.9728" />
+   <OverallSys Name="alpha_JES_BASE" High="1.048" Low="0.9368" />
+   <OverallSys Name="alpha_EL_ID" High="1.0197" Low="0.9803" />
+   <OverallSys Name="alpha_EL_E" High="1.0044" Low="0.9935" />
+   <OverallSys Name="alpha_MU_E" High="1.0023" Low="1.0" />
+   <OverallSys Name="alpha_MET" High="1.0121" Low="0.9902" />
+   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
+</Sample>
+<Sample Name="ATLAS_Bkg_LL_TT"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Bkg_LL_TT">
+  <StatError Activate="True" />
+   <OverallSys Name="alpha_MU_ID" High="1.0028" Low="0.9972" />
+   <OverallSys Name="alpha_TRIG_SINGLE" High="1.0033" Low="0.9873" />
+   <OverallSys Name="alpha_TRIG_DILEP" High="1.0128" Low="1.0005" />
+   <OverallSys Name="alpha_BTAG_B" High="1.0184" Low="0.9724" />
+   <OverallSys Name="alpha_BTAG_L" High="1.0031" Low="1.0016" />
+   <OverallSys Name="alpha_XS_Z" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_W" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_ttbar" High="1.055" Low="0.945" />
+   <OverallSys Name="alpha_XS_Diboson" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_SinTop" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_LUMI" High="1.028" Low="0.9728" />
+   <OverallSys Name="alpha_JES_BASE" High="1.0945" Low="0.9096" />
+   <OverallSys Name="alpha_EL_ID" High="1.0174" Low="0.9826" />
+   <OverallSys Name="alpha_EL_E" High="1.0069" Low="0.9965" />
+   <OverallSys Name="alpha_MU_E" High="1.0013" Low="0.9985" />
+   <OverallSys Name="alpha_MET" High="1.0096" Low="0.9991" />
+   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
+</Sample>
+<Sample Name="ATLAS_Bkg_QCD" HistoPath="abcd_FullBtag/" NormalizeByTheory="False" HistoName="ATLAS_Bkg_QCD_shape_FullBtag">
+   <StatError Activate="True" />
+   <NormFactor Name="N_qcd_B_tag" Val="50." Low="0." High="1000." />  <!-- Number of events in region B to be fitted -->
+   <NormFactor Name="R_qcd_tag" Val="2." Low="0." High="10."  />     <!-- R_qcd factor that converts # events in region B to SR A,-->
+   <OverallSys Name="R_qcd_tag" Low="0.85" High="1.15"/>
+</Sample>
+<!-- signal list using mA  110   -->
+<Sample Name="ATLAS_Sig_LL_bbA110"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Sig_LL_bbA110">
+  <StatError Activate="False" />
+   <OverallSys Name="alpha_MU_ID" High="1.0027" Low="0.9973" />
+   <OverallSys Name="alpha_TRIG_SINGLE" High="1.0025" Low="0.99" />
+   <OverallSys Name="alpha_TRIG_DILEP" High="1.0297" Low="1.0055" />
+   <OverallSys Name="alpha_BTAG_B" High="1.0966" Low="0.8935" />
+   <OverallSys Name="alpha_BTAG_L" High="1.0002" Low="0.993" />
+   <OverallSys Name="alpha_XS_Z" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_W" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_ttbar" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_Diboson" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_SinTop" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_LUMI" High="1.028" Low="0.9728" />
+   <OverallSys Name="alpha_JES_BASE" High="1.0383" Low="0.978" />
+   <OverallSys Name="alpha_EL_ID" High="1.0238" Low="0.9762" />
+   <OverallSys Name="alpha_EL_E" High="1.0097" Low="0.9915" />
+   <OverallSys Name="alpha_MU_E" High="1.0037" Low="1.0" />
+   <OverallSys Name="alpha_MET" High="1.0" Low="0.9999" />
+   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
+  <NormFactor Name="SigXsecOverSM" Val="0" Low="0." High="40."  />
+</Sample>
+</Channel>

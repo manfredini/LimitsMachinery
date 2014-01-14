@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./myExe  ExampleXmls/results/hadhad_mAXXXtbXX_comb_combined_AllSyst_model.root  130 10 >& output.txt

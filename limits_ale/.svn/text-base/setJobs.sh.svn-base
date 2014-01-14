@@ -1,0 +1,60 @@
+#!/bin/bash
+
+
+FNAME="/phys/groups/tev/scratch3/users/rompotis/CombinationResults/resultsV13updated/lephad_mAXXXtbXX_comb_combined_AllSyst_model.root"
+
+
+
+if [ "$1" == "0" ]; then
+    ./runFileSet.sh "$FNAME" 90 10
+    exit
+
+## amssive jobs
+elif [ "$1" == "1" ]; then
+./runFileSet.sh $FNAME 90  &
+./runFileSet.sh $FNAME 100 &
+./runFileSet.sh $FNAME 110 &
+./runFileSet.sh $FNAME 120 &
+wait
+elif [ "$1" == "2" ]; then
+./runFileSet.sh $FNAME 130 &
+./runFileSet.sh $FNAME 140 &
+./runFileSet.sh $FNAME 150 &
+./runFileSet.sh $FNAME 170 &
+wait
+elif [ "$1" == "3" ]; then
+./runFileSet.sh $FNAME 200 &
+./runFileSet.sh $FNAME 250 &
+./runFileSet.sh $FNAME 300 &
+./runFileSet.sh $FNAME 350 &
+wait
+elif [ "$1" == "4" ]; then
+./runFileSet.sh $FNAME 400 &
+./runFileSet.sh $FNAME 450 &
+./runFileSet.sh $FNAME 500 &
+wait
+
+## run each file separately
+elif [ "$1" == "100" ]; then
+./runFileSet.sh $FNAME 90
+./runFileSet.sh $FNAME 100
+./runFileSet.sh $FNAME 110
+./runFileSet.sh $FNAME 120
+
+./runFileSet.sh $FNAME 130
+./runFileSet.sh $FNAME 140
+./runFileSet.sh $FNAME 150
+./runFileSet.sh $FNAME 170
+
+./runFileSet.sh $FNAME 200
+./runFileSet.sh $FNAME 250
+./runFileSet.sh $FNAME 300
+./runFileSet.sh $FNAME 350
+
+./runFileSet.sh $FNAME 400
+./runFileSet.sh $FNAME 450
+./runFileSet.sh $FNAME 500
+
+elif [ "$1" == "350" ]; then
+./runFileSet.sh $FNAME 350
+fi

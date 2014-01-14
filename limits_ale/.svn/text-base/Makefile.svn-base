@@ -1,0 +1,5 @@
+StandardHypoTestInvDemo: runAsymptoticsCLsFactory-00-01-02.cc
+	g++ -g -O2 -fPIC -Wno-deprecated  -o myExe  runAsymptoticsCLsFactory-00-01-02.cc `root-config --cflags --libs --ldflags` -L${ROOTSYS}/lib -lHistFactory -lXMLParser -lRooStats -lRooFit -lRooFitCore -lThread -lMinuit2 -lMinuit -lFoam   -lHtml -lGpad -lm
+
+clean:
+	rm -f myExe

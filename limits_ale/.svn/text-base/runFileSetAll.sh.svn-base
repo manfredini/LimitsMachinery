@@ -1,0 +1,204 @@
+#!/bin/bash
+
+FNAME=""
+
+function runMassPoint() {
+
+    if [ "$1" == "90"  ]; then
+	./myExe $FNAME 90 5  >& out_comb_all_mA${1}tb5.txt  &
+	./myExe $FNAME 90 8  >& out_comb_all_mA${1}tb8.txt  &
+	./myExe $FNAME 90 10 >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 90 13 >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 90 16 >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 90 20 >& out_comb_all_mA${1}tb20.txt &
+
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+	./myExe $FNAME ${1} 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+    elif [ "$1" == "100"  ]; then
+	./myExe $FNAME 100 5   >& out_comb_all_mA${1}tb5.txt   &
+	./myExe $FNAME 100 8   >& out_comb_all_mA${1}tb8.txt   &
+	./myExe $FNAME 100 10  >& out_comb_all_mA${1}tb10.txt  &
+	./myExe $FNAME 100 13  >& out_comb_all_mA${1}tb13.txt  &
+	./myExe $FNAME 100 16  >& out_comb_all_mA${1}tb16.txt  &
+	./myExe $FNAME 100 20  >& out_comb_all_mA${1}tb20.txt  &
+
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+
+	./myExe $FNAME ${1} 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+    elif [ "$1" == "110"  ]; then
+	./myExe $FNAME 110 5   >& out_comb_all_mA${1}tb5.txt   &
+	./myExe $FNAME 110 8   >& out_comb_all_mA${1}tb8.txt   &
+	./myExe $FNAME 110 10  >& out_comb_all_mA${1}tb10.txt  &
+	./myExe $FNAME 110 13  >& out_comb_all_mA${1}tb13.txt  &
+	./myExe $FNAME 110 16  >& out_comb_all_mA${1}tb16.txt  &
+	./myExe $FNAME 110 20  >& out_comb_all_mA${1}tb20.txt  &
+
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+
+	./myExe $FNAME ${1} 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+    elif [ "$1" == "120"  ]; then
+
+	./myExe $FNAME 120 5    >& out_comb_all_mA${1}tb5.txt   &
+	./myExe $FNAME 120 8    >& out_comb_all_mA${1}tb8.txt   &
+	./myExe $FNAME 120 10   >& out_comb_all_mA${1}tb10.txt  &
+	./myExe $FNAME 120 13   >& out_comb_all_mA${1}tb13.txt  &
+	./myExe $FNAME 120 16   >& out_comb_all_mA${1}tb16.txt  &
+	./myExe $FNAME 120 20   >& out_comb_all_mA${1}tb20.txt  &
+
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+	./myExe $FNAME ${1} 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+    elif [ "$1" == "130"  ]; then
+
+	./myExe $FNAME 130 5     >& out_comb_all_mA${1}tb5.txt  &
+	./myExe $FNAME 130 8	 >& out_comb_all_mA${1}tb8.txt  &
+	./myExe $FNAME 130 10	 >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 130 13	 >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 130 16	 >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 130 20	 >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+	./myExe $FNAME ${1} 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+    elif [ "$1" == "140"  ]; then
+
+	./myExe $FNAME 140 5     >& out_comb_all_mA${1}tb5.txt  &
+	./myExe $FNAME 140 8	 >& out_comb_all_mA${1}tb8.txt  &
+	./myExe $FNAME 140 10	 >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 140 13	 >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 140 16	 >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 140 20	 >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+
+	./myExe $FNAME ${1} 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+    elif [ "$1" == "150"  ]; then
+
+	./myExe $FNAME 150 5    >& out_comb_all_mA${1}tb5.txt  &
+	./myExe $FNAME 150 8    >& out_comb_all_mA${1}tb8.txt  &
+	./myExe $FNAME 150 10   >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 150 13   >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 150 16   >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 150 20   >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+
+    elif [ "$1" == "170"  ]; then
+
+	./myExe $FNAME 170 5    >& out_comb_all_mA${1}tb5.txt  &
+	./myExe $FNAME 170 8    >& out_comb_all_mA${1}tb8.txt  &
+	./myExe $FNAME 170 10   >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 170 13   >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 170 16   >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 170 20   >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+    elif [ "$1" == "200"  ]; then
+	./myExe $FNAME 200 5    >& out_comb_all_mA${1}tb5.txt  &
+	./myExe $FNAME 200 8    >& out_comb_all_mA${1}tb8.txt  &
+	./myExe $FNAME 200 10   >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 200 13   >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 200 16   >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 200 20   >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME ${1} 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME ${1} 26 >& out_comb_all_mA${1}tb26.txt &
+    elif [ "$1" == "250"  ]; then
+	./myExe $FNAME 250 10   >& out_comb_all_mA${1}tb10.txt &
+	./myExe $FNAME 250 13   >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 250 16   >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 250 20   >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME 250 23   >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME 250 26   >& out_comb_all_mA${1}tb26.txt &
+	./myExe $FNAME 250 30   >& out_comb_all_mA${1}tb30.txt &
+
+	./myExe $FNAME ${1} 35 >& out_comb_all_mA${1}tb35.txt &
+	./myExe $FNAME ${1} 40 >& out_comb_all_mA${1}tb40.txt &
+
+    elif [ "$1" == "300"  ]; then
+	./myExe $FNAME 300 13  >& out_comb_all_mA${1}tb13.txt &
+	./myExe $FNAME 300 16  >& out_comb_all_mA${1}tb16.txt &
+	./myExe $FNAME 300 20  >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME 300 23  >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME 300 26  >& out_comb_all_mA${1}tb26.txt &
+	./myExe $FNAME 300 30  >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME 300 35  >& out_comb_all_mA${1}tb35.txt &
+	./myExe $FNAME ${1} 40 >& out_comb_all_mA${1}tb40.txt &
+	./myExe $FNAME ${1} 45 >& out_comb_all_mA${1}tb45.txt &
+
+    elif [ "$1" == "350"  ]; then
+
+	./myExe $FNAME 350 20 >& out_comb_all_mA${1}tb20.txt &
+	./myExe $FNAME 350 23 >& out_comb_all_mA${1}tb23.txt &
+	./myExe $FNAME 350 26 >& out_comb_all_mA${1}tb26.txt &
+	./myExe $FNAME 350 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME 350 35 >& out_comb_all_mA${1}tb35.txt &
+	./myExe $FNAME 350 40 >& out_comb_all_mA${1}tb40.txt &
+	./myExe $FNAME ${1} 45 >& out_comb_all_mA${1}tb45.txt &
+	./myExe $FNAME ${1} 50 >& out_comb_all_mA${1}tb50.txt &
+	./myExe $FNAME ${1} 55 >& out_comb_all_mA${1}tb55.txt &
+	./myExe $FNAME ${1} 60 >& out_comb_all_mA${1}tb60.txt &
+    elif [ "$1" == "400"  ]; then
+	./myExe $FNAME 400 23 >& out_comb_all_mA${1}tb23.txt  &
+	./myExe $FNAME 400 26 >& out_comb_all_mA${1}tb26.txt  &
+	./myExe $FNAME 400 30 >& out_comb_all_mA${1}tb30.txt  &
+	./myExe $FNAME 400 35 >& out_comb_all_mA${1}tb35.txt  &
+	./myExe $FNAME 400 40 >& out_comb_all_mA${1}tb40.txt  &
+	./myExe $FNAME 400 45 >& out_comb_all_mA${1}tb45.txt  &
+	./myExe $FNAME 400 50 >& out_comb_all_mA${1}tb50.txt  &
+	./myExe $FNAME 400 55 >& out_comb_all_mA${1}tb55.txt  &
+	./myExe $FNAME ${1} 60 >& out_comb_all_mA${1}tb60.txt &
+	./myExe $FNAME ${1} 65 >& out_comb_all_mA${1}tb65.txt &
+	./myExe $FNAME ${1} 70 >& out_comb_all_mA${1}tb70.txt &
+    elif [ "$1" == "450"  ]; then
+
+	./myExe $FNAME 450 30 >& out_comb_all_mA${1}tb30.txt &
+	./myExe $FNAME 450 35 >& out_comb_all_mA${1}tb35.txt &
+	./myExe $FNAME 450 40 >& out_comb_all_mA${1}tb40.txt &
+	./myExe $FNAME 450 45 >& out_comb_all_mA${1}tb45.txt &
+	./myExe $FNAME 450 50 >& out_comb_all_mA${1}tb50.txt &
+	./myExe $FNAME 450 55 >& out_comb_all_mA${1}tb55.txt &
+	./myExe $FNAME 450 60 >& out_comb_all_mA${1}tb60.txt &
+	./myExe $FNAME 450 65 >& out_comb_all_mA${1}tb65.txt &
+	./myExe $FNAME 450 70 >& out_comb_all_mA${1}tb70.txt &
+
+    elif [ "$1" == "500"  ]; then
+
+	./myExe $FNAME 500 40 >& out_comb_all_mA${1}tb40.txt &
+	./myExe $FNAME 500 45 >& out_comb_all_mA${1}tb45.txt &
+	./myExe $FNAME 500 50 >& out_comb_all_mA${1}tb50.txt &
+	./myExe $FNAME 500 55 >& out_comb_all_mA${1}tb55.txt &
+	./myExe $FNAME 500 60 >& out_comb_all_mA${1}tb60.txt &
+	./myExe $FNAME 500 65 >& out_comb_all_mA${1}tb65.txt &
+	./myExe $FNAME 500 70 >& out_comb_all_mA${1}tb70.txt &
+
+
+    fi
+}
+
+## 2 arguments: run mass point
+if [ ${#} -eq 2  ]; then
+    FNAME="$1"
+    echo "Running Mass point $2 and file $FNAME"
+    runMassPoint $2
+    wait
+    exit
+fi
+
+## 3 arguments: run single file
+if [ ${#} -eq 3  ]; then
+    FNAME="$1"
+    echo "Running Mass point $2 for tanbeta $3 and file $FNAME"
+    ./myExe $FNAME $2 $3 >& out_comb_all_mA${2}tb${3}.txt
+    wait
+    exit
+fi
+
+echo "2 or 3 arguments needed"

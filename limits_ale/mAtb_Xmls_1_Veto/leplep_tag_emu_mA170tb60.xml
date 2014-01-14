@@ -1,0 +1,8 @@
+<!DOCTYPE Channel  SYSTEM 'HistFactorySchema.dtd'>
+<Channel Name="leplep_tag_emu" InputFile="./data/leplep_tag_emu.root" >
+ 
+  <Data HistoName="ATLAS_data_LL" HistoPath="" />
+  <StatErrorConfig RelErrorThreshold="0.05" ConstraintType="Poisson" />
+<!-- background list -->
+<!-- signal list using mA/tanB  170 / 60  -->
+</Channel>

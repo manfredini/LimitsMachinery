@@ -1,0 +1,33 @@
+<!---
+			IN THIS REGION ALL HISTO ARE 1 BIN HISTO
+-->
+
+
+
+<!DOCTYPE Channel  SYSTEM 'HistFactorySchema.dtd'>
+
+  <Channel Name="region_B_veto" InputFile="./data/leplep_veto_emu.root" >
+    <Data HistoName="ATLAS_data_LL_B_yield_FullBveto" HistoPath="abcd_FullBveto/" />
+
+    <StatErrorConfig RelErrorThreshold="0.05" ConstraintType="Poisson" /> 
+
+<!--
+		NO SIGNAL HERE
+-->
+    <Sample Name="ATLAS_Bkg_LL_Ztautau" HistoPath="abcd_FullBveto/" NormalizeByTheory="True" HistoName="ATLAS_Bkg_LL_Ztautau_B_yield_FullBveto">
+      <StatError Activate="True" />  
+    </Sample>
+
+    <Sample Name="ATLAS_Bkg_LL_TT" HistoPath="abcd_FullBveto/" NormalizeByTheory="True" HistoName="ATLAS_Bkg_LL_TT_B_yield_FullBveto">
+      <StatError Activate="True" />  
+    </Sample>
+
+    <Sample Name="ATLAS_Bkg_LL_Other" HistoPath="abcd_FullBveto/" NormalizeByTheory="True" HistoName="ATLAS_Bkg_LL_Other_B_yield_FullBveto">
+      <StatError Activate="True" />  
+    </Sample>
+
+    <Sample Name="ATLAS_Bkg_QCD" HistoPath="abcd_FullBveto/" NormalizeByTheory="false" HistoName="unit_histo">  <!--unit_histo is just 1 bin histo with 1 event-->
+      <StatError Activate="False" />  
+      <NormFactor Name="N_qcd_B_veto" Val="3000." Low="0." High="10000."  /> <!-- Number of events in region B to be fitted --> 
+    </Sample>
+  </Channel>

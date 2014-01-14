@@ -1,0 +1,46 @@
+Hello Ale,
+
+I've made a tarball that I hope has everything in that you need to run the limits. You can find it in the CERN afs at
+
+~mbecking/public/forAle/limitsMachinery.tar.gz
+
+Below are some instructions for the various steps that are needed. It was set up by Nikos, so I'm not responsible for the complexity! Essentially what it does though is
+take an input text file to set up the xml files needed by histfactory, then use these xml files and the input  histograms into workspaces and finally make the limits for
+each mA point. 
+
+It would probably be best for you to look at the 2D limits (ie. mA-tanBeta plane limits). Please let me know if there's anything missing, as I may have forgotten to put it
+into the tarball.
+
+
+Cheers,
+
+Matt.
+
+
+=======================
+
+
+Steps to produce limits from output of plotting job
+
+        • Make input xml files using (in TemplateWriter directory)
+        •
+                • sh templateWriter.sh inputSysFileName.txt outputDirName channel
+                •
+                        • eg. sh templateWriter.sh leplep_161013/systematicsLepLep_BTag_161013.txt Templates_LepLep_BTag_161013/ tag_leplep
+        • Run cfgCreator to turn into xmls for histfactory, eg:
+        •
+                • sh cfgCreator.sh 1 Templates_Writer/Templates_LepLep_BTag_020113/ Tag nocr LL
+                • sh cfgCreator.sh 1 Templates_Writer/Templates_LepLep_BVeto_020113/ Veto nocr LL
+        • makeLimitPlots.py (set outputFileName properly)
+        • set up directory structure with *.xml files and tag/veto subdirectories
+        • run makeWorkspace.sh
+        •
+                • eg. sh ../../makeWorkspace.sh top_leplep_tag_mA (for cross section limits)
+                • or sh ../../makeWorkspace2D.sh top_leplep_tag_mA (for mA-tanBeta limits)
+        • run limit machinery over workspaces (in Limits directory)
+        •
+                • eg. ./runXSLimsMatt.sh veto bbA
+                • or ./runXSLims2DMatt.sh
+
+
+

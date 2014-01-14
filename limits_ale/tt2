@@ -1,0 +1,932 @@
+>>> Running Channel: tag_emu
+mkdir: cannot create directory `mAtb_Xmls_1_Veto': File exists
+                     mass=090
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=100
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=110
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA100_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=120
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=125
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA125_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+                     mass=130
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=140
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA110_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA140_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=150
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA150_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=170
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA170_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=200
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA200_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=250
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA250_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=300
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA300_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=350
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA120_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA350_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+                     mass=400
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+Creating tanb=05
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=08
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=10
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=13
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=16
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=20
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=23
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=26
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=30
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=35
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=40
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=45
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=50
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=55
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory
+Creating tanb=60
+cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA400_tag_emu_xml.txt: No such file or directory
+sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA130_tag_emu_xml.txt: No such file or directory

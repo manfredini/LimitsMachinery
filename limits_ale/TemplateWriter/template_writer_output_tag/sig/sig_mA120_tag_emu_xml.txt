@@ -1,0 +1,46 @@
+<Sample Name="ATLAS_Sig_LL_bbA120"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Sig_LL_bbA120">
+  <StatError Activate="False" />
+  <OverallSys Name="XS_bbA" High="x.xxxx" Low="y.yyyy" />
+   <OverallSys Name="alpha_MU_ID" High="1.0027" Low="0.9973" />
+   <OverallSys Name="alpha_TRIG_SINGLE" High="1.0016" Low="0.9884" />
+   <OverallSys Name="alpha_TRIG_DILEP" High="1.0226" Low="1.002" />
+   <OverallSys Name="alpha_BTAG_B" High="1.0983" Low="0.8928" />
+   <OverallSys Name="alpha_BTAG_L" High="0.9999" Low="0.991" />
+   <OverallSys Name="alpha_XS_Z" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_W" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_ttbar" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_Diboson" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_SinTop" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_LUMI" High="1.028" Low="0.9728" />
+   <OverallSys Name="alpha_JES_BASE" High="1.0272" Low="0.9811" />
+   <OverallSys Name="alpha_EL_ID" High="1.0222" Low="0.9778" />
+   <OverallSys Name="alpha_EL_E" High="1.0078" Low="0.994" />
+   <OverallSys Name="alpha_MU_E" High="1.0051" Low="0.9964" />
+   <OverallSys Name="alpha_MET" High="1.0067" Low="0.9978" />
+   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
+  <NormFactor Name="mbbAll120" Val="a.aaaaa" Low="a.aaaaa" High="a.aaaaa" />
+  <NormFactor Name="SigXsecOverSM" Val="0" Low="0." High="40."  />
+</Sample>
+<Sample Name="ATLAS_Sig_LL_ggA120"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Sig_LL_ggA120">
+  <StatError Activate="False" />
+  <OverallSys Name="XS_ggA" High="z.zzzz" Low="m.mmmm" />
+   <OverallSys Name="alpha_MU_ID" High="1.0027" Low="0.9973" />
+   <OverallSys Name="alpha_TRIG_SINGLE" High="1.0029" Low="0.9933" />
+   <OverallSys Name="alpha_TRIG_DILEP" High="1.0256" Low="0.9974" />
+   <OverallSys Name="alpha_BTAG_B" High="0.9753" Low="0.8133" />
+   <OverallSys Name="alpha_BTAG_L" High="1.0682" Low="0.9087" />
+   <OverallSys Name="alpha_XS_Z" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_W" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_ttbar" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_Diboson" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_XS_SinTop" High="1.0" Low="1.0" />
+   <OverallSys Name="alpha_LUMI" High="1.028" Low="0.9728" />
+   <OverallSys Name="alpha_JES_BASE" High="1.0777" Low="0.8737" />
+   <OverallSys Name="alpha_EL_ID" High="1.0194" Low="0.9806" />
+   <OverallSys Name="alpha_EL_E" High="1.0063" Low="0.9998" />
+   <OverallSys Name="alpha_MU_E" High="1.0777" Low="0.9223" />
+   <OverallSys Name="alpha_MET" High="1.0" Low="0.8901" />
+   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
+  <NormFactor Name="mggAll120" Val="f.ffff" Low="f.ffff" High="f.ffff" />
+  <NormFactor Name="SigXsecOverSM" Val="0" Low="0." High="40."  />
+</Sample>
