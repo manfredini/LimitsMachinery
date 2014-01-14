@@ -6,7 +6,7 @@
 <!-- background list -->
 
 <Sample Name="ATLAS_Bkg_LL_Ztautau"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Bkg_LL_Ztautau">
-  <StatError Activate="True" />
+  <StatError Activate="False" />
    <OverallSys Name="alpha_MU_ID" High="1.0027" Low="0.9973" />
    <OverallSys Name="alpha_TRIG_SINGLE" High="1.0" Low="1.0" />
    <OverallSys Name="alpha_TRIG_DILEP" High="1.0" Low="1.0" />
@@ -23,10 +23,9 @@
    <OverallSys Name="alpha_EL_E" High="1.0077" Low="0.9919" />
    <OverallSys Name="alpha_MU_E" High="1.0017" Low="0.9985" />
    <OverallSys Name="alpha_MET" High="1.0012" Low="0.9983" />
-   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
 </Sample>
 <Sample Name="ATLAS_Bkg_LL_Other"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Bkg_LL_Other">
-  <StatError Activate="True" />
+  <StatError Activate="False" />
    <OverallSys Name="alpha_MU_ID" High="1.0028" Low="0.9972" />
    <OverallSys Name="alpha_TRIG_SINGLE" High="1.0034" Low="0.9878" />
    <OverallSys Name="alpha_TRIG_DILEP" High="1.0144" Low="1.0015" />
@@ -43,10 +42,9 @@
    <OverallSys Name="alpha_EL_E" High="1.0044" Low="0.9935" />
    <OverallSys Name="alpha_MU_E" High="1.0023" Low="1.0" />
    <OverallSys Name="alpha_MET" High="1.0121" Low="0.9902" />
-   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
 </Sample>
 <Sample Name="ATLAS_Bkg_LL_TT"  HistoPath=""  NormalizeByTheory="True"  HistoName="ATLAS_Bkg_LL_TT">
-  <StatError Activate="True" />
+  <StatError Activate="False" />
    <OverallSys Name="alpha_MU_ID" High="1.0028" Low="0.9972" />
    <OverallSys Name="alpha_TRIG_SINGLE" High="1.0033" Low="0.9873" />
    <OverallSys Name="alpha_TRIG_DILEP" High="1.0128" Low="1.0005" />
@@ -63,10 +61,9 @@
    <OverallSys Name="alpha_EL_E" High="1.0069" Low="0.9965" />
    <OverallSys Name="alpha_MU_E" High="1.0013" Low="0.9985" />
    <OverallSys Name="alpha_MET" High="1.0096" Low="0.9991" />
-   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
 </Sample>
 <Sample Name="ATLAS_Bkg_QCD" HistoPath="abcd_FullBtag/" NormalizeByTheory="False" HistoName="ATLAS_Bkg_QCD_shape_FullBtag">
-   <StatError Activate="True" />
+   <StatError Activate="False" />
    <NormFactor Name="N_qcd_B_tag" Val="50." Low="0." High="1000." />  <!-- Number of events in region B to be fitted -->
    <NormFactor Name="R_qcd_tag" Val="2." Low="0." High="10."  />     <!-- R_qcd factor that converts # events in region B to SR A,-->
    <OverallSys Name="R_qcd_tag" Low="0.85" High="1.15"/>
@@ -90,7 +87,6 @@
    <OverallSys Name="alpha_EL_E" High="1.006" Low="0.99" />
    <OverallSys Name="alpha_MU_E" High="1.0033" Low="1.0" />
    <OverallSys Name="alpha_MET" High="1.0104" Low="0.9951" />
-   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
   <NormFactor Name="SigXsecOverSM" Val="0" Low="0." High="40."  />
 </Sample>
 </Channel>

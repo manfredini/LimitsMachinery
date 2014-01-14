@@ -5,7 +5,7 @@
   <Input>region_d_leplep_veto.xml</Input>
   <Input>leplep_veto_emu_mA300tb55.xml</Input>
 
-  <Measurement Name="AllSyst" Lumi="1." LumiRelErr="0.039" Mode="comb" ExportOnly="True" >  
+  <Measurement Name="AllSyst" Lumi="1." LumiRelErr="0.039" Mode="comb" ExportOnly="False" >  
     <POI>SigXsecOverSM</POI>  
     <!-- All signal cross sections are treated as constants  -->
     <ParamSetting Const="True">mbbAll090 mbbAll100 mbbAll110 mbbAll120 mbbAll125 mbbAll130 mbbAll140 mbbAll150 mbbAll170 mbbAll200 mbbAll250 mbbAll300 mbbAll350 mbbAll400       mggAll090 mggAll100 mggAll110 mggAll120 mggAll125 mggAll130 mggAll140 mggAll150 mggAll170 mggAll200 mggAll250 mggAll300 mggAll350 mggAll400  </ParamSetting>

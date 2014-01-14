@@ -17,7 +17,6 @@
    <OverallSys Name="alpha_EL_E" High="1.0068" Low="0.9924" />
    <OverallSys Name="alpha_MU_E" High="1.004" Low="1.0" />
    <OverallSys Name="alpha_MET" High="1.009" Low="0.9957" />
-   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
   <NormFactor Name="mbbAll250" Val="a.aaaaa" Low="a.aaaaa" High="a.aaaaa" />
   <NormFactor Name="SigXsecOverSM" Val="0" Low="0." High="40."  />
 </Sample>
@@ -40,7 +39,6 @@
    <OverallSys Name="alpha_EL_E" High="1.0" Low="0.9998" />
    <OverallSys Name="alpha_MU_E" High="1.0" Low="1.0" />
    <OverallSys Name="alpha_MET" High="1.0" Low="1.0" />
-   <OverallSys Name="alpha_LL_QBKG" High="1.0" Low="1.0" />
   <NormFactor Name="mggAll250" Val="f.ffff" Low="f.ffff" High="f.ffff" />
   <NormFactor Name="SigXsecOverSM" Val="0" Low="0." High="40."  />
 </Sample>

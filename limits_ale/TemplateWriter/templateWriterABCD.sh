@@ -324,7 +324,7 @@ done
 #----  Add ABCD to output bkg file --- ALE
 if [ "$3" == "tag_leplep" ]; then
 	echo "<Sample Name=\"ATLAS_Bkg_QCD\" HistoPath=\"abcd_FullBtag/\" NormalizeByTheory=\"False\" HistoName=\"ATLAS_Bkg_QCD_shape_FullBtag\">" >> ${FOLDER}/bkg/bkg_tag_emu_xml.txt
-	echo "   <StatError Activate=\"True\" />" >> ${FOLDER}/bkg/bkg_tag_emu_xml.txt
+	echo "   <StatError Activate=\"False\" />" >> ${FOLDER}/bkg/bkg_tag_emu_xml.txt
 	echo "   <NormFactor Name=\"N_qcd_B_tag\" Val=\"50.\" Low=\"0.\" High=\"1000.\" />  <!-- Number of events in region B to be fitted -->" >> ${FOLDER}/bkg/bkg_tag_emu_xml.txt
 	echo "   <NormFactor Name=\"R_qcd_tag\" Val=\"2.\" Low=\"0.\" High=\"10.\"  />     <!-- R_qcd factor that converts # events in region B to SR A,-->" >> ${FOLDER}/bkg/bkg_tag_emu_xml.txt
 	echo "   <OverallSys Name=\"R_qcd_tag\" Low=\"0.85\" High=\"1.15\"/>" >> ${FOLDER}/bkg/bkg_tag_emu_xml.txt
@@ -332,7 +332,7 @@ if [ "$3" == "tag_leplep" ]; then
 
 elif [ "$3" == "veto_leplep" ]; then
 	echo "<Sample Name=\"ATLAS_Bkg_QCD\" HistoPath=\"abcd_FullBveto/\" NormalizeByTheory=\"False\" HistoName=\"ATLAS_Bkg_QCD_shape_FullBveto\">" >> ${FOLDER}/bkg/bkg_veto_emu_xml.txt
-	echo "   <StatError Activate=\"True\" />" >> ${FOLDER}/bkg/bkg_veto_emu_xml.txt
+	echo "   <StatError Activate=\"False\" />" >> ${FOLDER}/bkg/bkg_veto_emu_xml.txt
 	echo "   <NormFactor Name=\"N_qcd_B_veto\" Val=\"3000.\" Low=\"0.\" High=\"10000.\" />  <!-- Number of events in region B to be fitted -->" >> ${FOLDER}/bkg/bkg_veto_emu_xml.txt
 	echo "   <NormFactor Name=\"R_qcd_veto\" Val=\"2.\" Low=\"0.\" High=\"10.\"  />    <!-- R_qcd factor that converts # events in region B to SR A, -->" >> ${FOLDER}/bkg/bkg_veto_emu_xml.txt
 	echo "   <OverallSys Name=\"R_qcd_veto\" Low=\"0.85\" High=\"1.15\"/>" >> ${FOLDER}/bkg/bkg_veto_emu_xml.txt

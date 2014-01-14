@@ -1,5 +1,4 @@
 >>> Running Channel: tag_emu
-mkdir: cannot create directory `mAtb_Xmls_1_Veto': File exists
                      mass=090
 cat: TemplateWriter/template_writer_output_veto//bkg//bkg_tag_emu_xml.txt: No such file or directory
 sed: can't read TemplateWriter/template_writer_output_veto//sig//sig_mA090_tag_emu_xml.txt: No such file or directory

@@ -1,6 +1,6 @@
-ATLAS_data_LL tag_emu n alpha_MU_ID 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_MU_ID 1.0028 0.9972 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_MU_ID 1.0027 0.9973 True True
+ATLAS_data_LL tag_emu n alpha_MU_ID 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_MU_ID 1.0028 0.9972 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_MU_ID 1.0027 0.9973 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_MU_ID 1.0027 0.9973 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_MU_ID 1.0027 0.9973 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_MU_ID 1.0027 0.9973 True False
@@ -25,11 +25,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_MU_ID 1.0027 0.9973 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_MU_ID 1.0027 0.9973 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_MU_ID 1.0028 0.9972 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_MU_ID 1.0028 0.9972 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_MU_ID 1.0028 0.9972 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_MU_ID 1.0028 0.9972 True False
 
-ATLAS_data_LL tag_emu n alpha_TRIG_SINGLE 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_TRIG_SINGLE 1.0033 0.9873 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_TRIG_SINGLE 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_TRIG_SINGLE 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_TRIG_SINGLE 1.0033 0.9873 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_TRIG_SINGLE 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_TRIG_SINGLE 0.9991 0.9891 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_TRIG_SINGLE 0.9973 0.9871 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_TRIG_SINGLE 0.9996 0.9852 True False
@@ -54,11 +54,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_TRIG_SINGLE 1.0037 0.9893 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_TRIG_SINGLE 1.0044 0.9891 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_TRIG_SINGLE 1.0041 0.9876 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_TRIG_SINGLE 1.0028 0.9868 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_TRIG_SINGLE 1.0034 0.9878 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_TRIG_SINGLE 1.0034 0.9878 True False
 
-ATLAS_data_LL tag_emu n alpha_TRIG_DILEP 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_TRIG_DILEP 1.0128 1.0005 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_TRIG_DILEP 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_TRIG_DILEP 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_TRIG_DILEP 1.0128 1.0005 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_TRIG_DILEP 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_TRIG_DILEP 1.0071 0.9836 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_TRIG_DILEP 1.0342 1.0062 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_TRIG_DILEP 1.0241 1.0074 True False
@@ -83,11 +83,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_TRIG_DILEP 1.0144 0.9987 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_TRIG_DILEP 1.0147 1.0007 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_TRIG_DILEP 1.0073 0.9971 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_TRIG_DILEP 1.0093 0.9978 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_TRIG_DILEP 1.0144 1.0015 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_TRIG_DILEP 1.0144 1.0015 True False
 
-ATLAS_data_LL tag_emu n alpha_BTAG_B 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_BTAG_B 1.0184 0.9724 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_BTAG_B 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_BTAG_B 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_BTAG_B 1.0184 0.9724 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_BTAG_B 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_BTAG_B 0.9356 0.831 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_BTAG_B 0.9249 0.8016 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_BTAG_B 0.9377 0.8403 True False
@@ -112,11 +112,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_BTAG_B 1.0991 0.896 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_BTAG_B 1.0898 0.9013 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_BTAG_B 1.1007 0.8846 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_BTAG_B 1.0938 0.8984 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_BTAG_B 1.0103 0.9163 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_BTAG_B 1.0103 0.9163 True False
 
-ATLAS_data_LL tag_emu n alpha_BTAG_L 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_BTAG_L 1.0031 1.0016 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_BTAG_L 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_BTAG_L 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_BTAG_L 1.0031 1.0016 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_BTAG_L 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_BTAG_L 1.0468 0.9106 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_BTAG_L 1.0854 0.8976 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_BTAG_L 1.1245 0.8579 True False
@@ -141,11 +141,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_BTAG_L 0.9976 0.9944 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_BTAG_L 0.9983 0.9955 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_BTAG_L 1.0062 0.9896 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_BTAG_L 0.9984 0.9948 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_BTAG_L 1.0337 0.9633 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_BTAG_L 1.0337 0.9633 True False
 
-ATLAS_data_LL tag_emu n alpha_XS_Z 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_XS_Z 1.0 1.0 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_Z 1.05 0.95 True True
+ATLAS_data_LL tag_emu n alpha_XS_Z 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_XS_Z 1.0 1.0 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_Z 1.05 0.95 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_XS_Z 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_XS_Z 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_XS_Z 1.0 1.0 True False
@@ -170,11 +170,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_XS_Z 1.0 1.0 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_XS_Z 1.0 1.0 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_XS_Z 1.0 1.0 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_XS_Z 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_XS_Z 1.0021 0.9979 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_XS_Z 1.0021 0.9979 True False
 
-ATLAS_data_LL tag_emu n alpha_XS_W 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_XS_W 1.0 1.0 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_W 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_XS_W 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_XS_W 1.0 1.0 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_W 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_XS_W 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_XS_W 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_XS_W 1.0 1.0 True False
@@ -199,11 +199,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_XS_W 1.0 1.0 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_XS_W 1.0 1.0 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_XS_W 1.0 1.0 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_XS_W 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_XS_W 1.0055 0.9945 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_XS_W 1.0055 0.9945 True False
 
-ATLAS_data_LL tag_emu n alpha_XS_ttbar 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_XS_ttbar 1.055 0.945 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_ttbar 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_XS_ttbar 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_XS_ttbar 1.055 0.945 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
@@ -228,11 +228,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_XS_ttbar 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_XS_ttbar 1.0 1.0 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_XS_ttbar 1.0 1.0 True False
 
-ATLAS_data_LL tag_emu n alpha_XS_Diboson 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_XS_Diboson 1.0 1.0 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_Diboson 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_XS_Diboson 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_XS_Diboson 1.0 1.0 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_Diboson 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
@@ -257,11 +257,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_XS_Diboson 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_XS_Diboson 1.007 0.993 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_XS_Diboson 1.007 0.993 True False
 
-ATLAS_data_LL tag_emu n alpha_XS_SinTop 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_XS_SinTop 1.0 1.0 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_SinTop 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_XS_SinTop 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_XS_SinTop 1.0 1.0 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_XS_SinTop 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
@@ -286,11 +286,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_XS_SinTop 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_XS_SinTop 1.0565 0.9435 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_XS_SinTop 1.0565 0.9435 True False
 
-ATLAS_data_LL tag_emu n alpha_LUMI 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_LUMI 1.028 0.9728 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_LUMI 1.028 0.9728 True True
+ATLAS_data_LL tag_emu n alpha_LUMI 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_LUMI 1.028 0.9728 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_LUMI 1.028 0.9728 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_LUMI 1.028 0.9728 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_LUMI 1.028 0.9728 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_LUMI 1.028 0.9728 True False
@@ -315,11 +315,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_LUMI 1.028 0.9728 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_LUMI 1.028 0.9728 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_LUMI 1.028 0.9728 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_LUMI 1.028 0.9728 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_LUMI 1.028 0.9728 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_LUMI 1.028 0.9728 True False
 
-ATLAS_data_LL tag_emu n alpha_JES_BASE 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_JES_BASE 1.0945 0.9096 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_JES_BASE 1.0 1.0 True True
+ATLAS_data_LL tag_emu n alpha_JES_BASE 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_JES_BASE 1.0945 0.9096 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_JES_BASE 1.0 1.0 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_JES_BASE 1.0032 0.9919 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_JES_BASE 1.0001 0.9998 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_JES_BASE 1.1019 0.8866 True False
@@ -344,11 +344,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_JES_BASE 1.0383 0.9583 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_JES_BASE 1.0295 0.984 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_JES_BASE 1.0197 0.9691 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_JES_BASE 1.0178 0.971 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_JES_BASE 1.048 0.9368 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_JES_BASE 1.048 0.9368 True False
 
-ATLAS_data_LL tag_emu n alpha_EL_ID 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_EL_ID 1.0174 0.9826 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_EL_ID 1.0261 0.9739 True True
+ATLAS_data_LL tag_emu n alpha_EL_ID 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_EL_ID 1.0174 0.9826 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_EL_ID 1.0261 0.9739 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_EL_ID 1.0292 0.9708 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_EL_ID 1.0355 0.9646 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_EL_ID 1.0135 0.9864 True False
@@ -373,11 +373,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_EL_ID 1.0199 0.9801 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_EL_ID 1.0198 0.9802 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_EL_ID 1.0167 0.9833 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_EL_ID 1.0171 0.9829 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_EL_ID 1.0197 0.9803 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_EL_ID 1.0197 0.9803 True False
 
-ATLAS_data_LL tag_emu n alpha_EL_E 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_EL_E 1.0069 0.9965 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_EL_E 1.0077 0.9919 True True
+ATLAS_data_LL tag_emu n alpha_EL_E 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_EL_E 1.0069 0.9965 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_EL_E 1.0077 0.9919 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_EL_E 1.0029 0.9982 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_EL_E 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_EL_E 1.0 0.9979 True False
@@ -402,11 +402,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_EL_E 1.0118 0.9868 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_EL_E 1.0092 0.9941 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_EL_E 1.0068 0.9924 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_EL_E 1.0041 0.9949 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_EL_E 1.0044 0.9935 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_EL_E 1.0044 0.9935 True False
 
-ATLAS_data_LL tag_emu n alpha_MU_E 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_MU_E 1.0013 0.9985 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_MU_E 1.0017 0.9985 True True
+ATLAS_data_LL tag_emu n alpha_MU_E 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_MU_E 1.0013 0.9985 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_MU_E 1.0017 0.9985 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_MU_E 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_MU_E 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_MU_E 1.0 1.0 True False
@@ -431,11 +431,11 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_MU_E 1.0035 0.9979 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_MU_E 1.0053 0.9977 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_MU_E 1.004 1.0 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_MU_E 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_MU_E 1.0023 1.0 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_MU_E 1.0023 1.0 True False
 
-ATLAS_data_LL tag_emu n alpha_MET 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_MET 1.0096 0.9991 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_MET 1.0012 0.9983 True True
+ATLAS_data_LL tag_emu n alpha_MET 1.0 1.0 True False
+ATLAS_Bkg_LL_TT tag_emu n alpha_MET 1.0096 0.9991 True False
+ATLAS_Bkg_LL_Ztautau tag_emu n alpha_MET 1.0012 0.9983 True False
 ATLAS_Sig_LL_ggA090 tag_emu n alpha_MET 1.0 1.0 True False
 ATLAS_Sig_LL_ggA100 tag_emu n alpha_MET 1.0 1.0 True False
 ATLAS_Sig_LL_ggA110 tag_emu n alpha_MET 1.1088 0.8922 True False
@@ -460,33 +460,4 @@ ATLAS_Sig_LL_bbA170 tag_emu n alpha_MET 1.0109 0.9937 True False
 ATLAS_Sig_LL_bbA200 tag_emu n alpha_MET 1.0065 0.9955 True False
 ATLAS_Sig_LL_bbA250 tag_emu n alpha_MET 1.009 0.9957 True False
 ATLAS_Sig_LL_bbA300 tag_emu n alpha_MET 1.0018 0.9951 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_MET 1.0121 0.9902 True True
-
-ATLAS_data_LL tag_emu n alpha_LL_QBKG 1.0 1.0 True True
-ATLAS_Bkg_LL_TT tag_emu n alpha_LL_QBKG 1.0 1.0 True True
-ATLAS_Bkg_LL_Ztautau tag_emu n alpha_LL_QBKG 1.0 1.0 True True
-ATLAS_Sig_LL_ggA090 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA100 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA110 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA120 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA125 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA130 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA140 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA150 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA170 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA200 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA250 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_ggA300 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA090 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA100 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA110 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA120 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA125 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA130 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA140 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA150 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA170 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA200 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA250 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Sig_LL_bbA300 tag_emu n alpha_LL_QBKG 1.0 1.0 True False
-ATLAS_Bkg_LL_Other tag_emu n alpha_LL_QBKG 1.0 1.0 True True
+ATLAS_Bkg_LL_Other tag_emu n alpha_MET 1.0121 0.9902 True False

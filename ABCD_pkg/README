@@ -1,0 +1,27 @@
+------------------------------		INFO 		----------------------------------------
+The ABCD is setup in this way:
+	SignalRegion :  N_signal + N_background + N_qcd_B * R_qcd 	(N_qcd_B and R_qcd are fitted)
+	RegionB		N_background + 	N_qcd_B				(N_qcd_B is fitted)
+	RegionC:	N_background +  N_qcd_B * R_qcd * R_qcd_bd  	(N_qcd_B  R_qcd  R_qcd_bd are fitted)
+	RegionD:	N_background +  N_qcd_B * R_qcd_bd		(N_qcd_B   R_qcd_bd  are  fitted)
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+------------------------------		HOW TO 		----------------------------------------
+
+1) hadd file abcd_plots.root  to the file containing your plots YourFileName.root --- my file is organised in folder so it wont mess up anything :) 
+
+2) Remove from Systematic text file (either btag and bveto) the background: ATLAS_Bkg_LL_qcd
+
+3) Run TemplateWriterABCD on the modified sys text file  with  usual inputs
+
+4) Run cfgCreator_Matt_ABCD.sh  with usual inputs
+
+5) Add the other regions BCD files "region_X_YYY.xml" to the output directory of  cfgCreator.  Those region don't consider signal.
+
+------------------------------------------------------------------------------------------------
+
+

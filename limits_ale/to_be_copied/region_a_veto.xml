@@ -1,8 +1,0 @@
-    
-    <Sample Name="ATLAS_Bkg_QCD" HistoPath="abcd_FullBveto/" NormalizeByTheory="False" HistoName="ATLAS_Bkg_QCD_shape_FullBveto">
-      <StatError Activate="True" />  
-      <NormFactor Name="N_qcd_B_veto" Val="3000." Low="0." High="10000." />  <!-- Number of events in region B to be fitted -->
-      <NormFactor Name="R_qcd_veto" Val="2." Low="0." High="10."  /> 	<!-- R_qcd factor that converts # events in region B to SR A, 
-									can say also that brings SS to OS, to be fitted -->
-      <OverallSys Name="R_qcd_veto" Low="0.85" High="1.15"/>
-    </Sample>
